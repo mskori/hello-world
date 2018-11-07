@@ -2,3 +2,5 @@ Hello world, I am learning Git to better track my work
 
 Western blot (primary antibody)
 qPCR optimization 
+
+My dude
